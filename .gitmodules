@@ -1,0 +1,6 @@
+[submodule "docker/wireguard-pihole"]
+	path = docker/wireguard-pihole
+	url = git@github.com:gitgc/wireguard-pihole-docker.git
+[submodule "docker/route53-dynamic-dns"]
+	path = docker/route53-dynamic-dns
+	url = git@github.com:gitgc/route53-dyndns-docker.git
