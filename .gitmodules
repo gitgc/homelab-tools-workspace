@@ -4,3 +4,6 @@
 [submodule "docker/route53-dynamic-dns"]
 	path = docker/route53-dynamic-dns
 	url = git@github.com:gitgc/route53-dyndns-docker.git
+[submodule "docker/unifi-controller"]
+	path = docker/unifi-controller
+	url = git@github.com:gitgc/unifi-controller-docker.git
